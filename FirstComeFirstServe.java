@@ -1,5 +1,5 @@
 import java.util.*;
-public class FCFS {
+public class FirstComeFirstServe {
 
 	static Scanner in = new Scanner(System.in);
 
