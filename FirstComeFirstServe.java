@@ -1,3 +1,10 @@
+/**
+*author @pratikkataria
+*creation_date 24_02_2019
+*java_8_1_0
+*/
+
+
 import java.util.*;
 public class FirstComeFirstServe {
 
